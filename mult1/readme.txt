@@ -1,3 +1,4 @@
+文字探索プログラム
 
 実行方法:
 python simple_search.py
